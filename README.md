@@ -4,7 +4,7 @@ Graph-Algorithm-Project
 To Run the Program using the Makefile:
 ---------------------------------------
 - To compile just type ```make all```
-- To run the program, type ```./prog5 Graph1.txt```
+- To run the program, type ```./prog5 ../lib/Graph1.txt```
 - To clean directory, ```make clean```
 
 Information
